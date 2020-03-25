@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="34a518af-97bb-48ce-be07-9aa952812e6b" name="Default Changelist" comment="" />
+    <list default="true" id="34a518af-97bb-48ce-be07-9aa952812e6b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +103,7 @@
       <workItem from="1583344291797" duration="3393000" />
       <workItem from="1583348541230" duration="521000" />
       <workItem from="1583787757540" duration="2046000" />
+      <workItem from="1583958182204" duration="469000" />
     </task>
     <servers />
   </component>
@@ -108,39 +111,40 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="33" key="GridCell.Tab.0.bottom" timestamp="1583806288677">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="305" key="GridCell.Tab.0.bottom" timestamp="1584082870368">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="1238" height="33" key="GridCell.Tab.0.bottom/0.23.1280.730@0.23.1280.730" timestamp="1583806288677" />
     <state width="1238" height="182" key="GridCell.Tab.0.bottom/0.23.1280.732@0.23.1280.732" timestamp="1583347372762" />
-    <state width="1238" height="182" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1583347105838" />
-    <state width="1238" height="33" key="GridCell.Tab.0.center" timestamp="1583806288676">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="305" key="GridCell.Tab.0.bottom/0.23.1280.733@0.23.1280.733" timestamp="1584082870368" />
+    <state width="1238" height="305" key="GridCell.Tab.0.center" timestamp="1584082870367">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="1238" height="33" key="GridCell.Tab.0.center/0.23.1280.730@0.23.1280.730" timestamp="1583806288676" />
     <state width="1238" height="182" key="GridCell.Tab.0.center/0.23.1280.732@0.23.1280.732" timestamp="1583347372756" />
-    <state width="1238" height="182" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1583347105836" />
-    <state width="1238" height="33" key="GridCell.Tab.0.left" timestamp="1583806288675">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="305" key="GridCell.Tab.0.center/0.23.1280.733@0.23.1280.733" timestamp="1584082870367" />
+    <state width="1238" height="305" key="GridCell.Tab.0.left" timestamp="1584082870366">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="1238" height="33" key="GridCell.Tab.0.left/0.23.1280.730@0.23.1280.730" timestamp="1583806288675" />
     <state width="1238" height="182" key="GridCell.Tab.0.left/0.23.1280.732@0.23.1280.732" timestamp="1583347372755" />
-    <state width="1238" height="182" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1583347105836" />
-    <state width="1238" height="33" key="GridCell.Tab.0.right" timestamp="1583806288677">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="305" key="GridCell.Tab.0.left/0.23.1280.733@0.23.1280.733" timestamp="1584082870366" />
+    <state width="1238" height="305" key="GridCell.Tab.0.right" timestamp="1584082870367">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state width="1238" height="33" key="GridCell.Tab.0.right/0.23.1280.730@0.23.1280.730" timestamp="1583806288677" />
     <state width="1238" height="182" key="GridCell.Tab.0.right/0.23.1280.732@0.23.1280.732" timestamp="1583347372761" />
-    <state width="1238" height="182" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1583347105837" />
-    <state x="317" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1583787759470">
-      <screen x="0" y="23" width="1280" height="730" />
+    <state width="1238" height="305" key="GridCell.Tab.0.right/0.23.1280.733@0.23.1280.733" timestamp="1584082870367" />
+    <state x="317" y="235" key="com.intellij.ide.util.TipDialog" timestamp="1583958183735">
+      <screen x="0" y="23" width="1280" height="733" />
     </state>
     <state x="317" y="232" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1583204094819" />
     <state x="317" y="234" key="com.intellij.ide.util.TipDialog/0.23.1280.730@0.23.1280.730" timestamp="1583787759470" />
     <state x="317" y="235" key="com.intellij.ide.util.TipDialog/0.23.1280.732@0.23.1280.732" timestamp="1583344294365" />
+    <state x="317" y="235" key="com.intellij.ide.util.TipDialog/0.23.1280.733@0.23.1280.733" timestamp="1583958183735" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/APCSP$guessingGame.coverage" NAME="guessingGame Coverage Results" MODIFIED="1583787911344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/programs" />
-    <SUITE FILE_PATH="coverage/APCSP$CoinToss.coverage" NAME="CoinToss Coverage Results" MODIFIED="1583789292601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
+    <SUITE FILE_PATH="coverage/APCSP$CoinToss.coverage" NAME="CoinToss Coverage Results" MODIFIED="1583958218433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/problems" />
   </component>
 </project>
